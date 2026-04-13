@@ -29,6 +29,6 @@ pas=input("Ingrese su password: ")
 pin= int(input("Ingrese su pin: "))
 
 if pas == "temu" and pin == 3435:
-    print("correcto")
+    print("Acceso concedido")
 else:
-    print("incorrecto")
+    print("Algo salio mal")
